@@ -1,4 +1,4 @@
-# Discord Voice Channel Notification Bot
+# Discord Voice Channel Notification Bot AKA Watcher
 
 This Discord bot sends notifications when users join or leave voice channels in your server.
 
@@ -51,13 +51,13 @@ python bot.py
 1. Build the Docker image:
 
    ```
-   docker build -t discord-voice-bot .
+   docker build -t discord-watcher-bot .
    ```
 
 2. Run the Docker container:
 
    ```
-   docker run discord-voice-bot
+   docker run discord-watcher-bot
    ```
 
 ## File Structure
