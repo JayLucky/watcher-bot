@@ -71,4 +71,21 @@ python bot.py
 
 The bot requires the following permissions:
 
-- Rea
+- Read Messages/View Channels
+- Send Messages
+- Read Message History
+- View Voice Channel
+
+Ensure the bot has these permissions in your Discord server.
+
+## Security Note
+
+Keep your `config.json` file secure and never share your bot token publicly.
+
+## Contributing
+
+Feel free to fork this project and submit pull requests with improvements or bug fixes.
+
+## License
+
+TBD
