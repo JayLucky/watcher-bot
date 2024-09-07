@@ -1,13 +1,8 @@
 # Discord Voice Channel Notification Bot AKA Watcher
 
-![Watcher](watcher.gif#center)
-
-<style>
-  img[src*='#center'] { 
-    display: block;
-    margin: auto;
-  }
-</style>
+<p align="center">
+  <img src="watcher.gif" alt="Watcher">
+</p>
 
 This Discord bot sends notifications when users join or leave voice channels in your server.
 
